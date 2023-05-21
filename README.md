@@ -1,4 +1,4 @@
-  #read
+  # read
   conn mytunnel
           auto=start
           authby=secret
