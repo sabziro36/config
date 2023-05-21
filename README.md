@@ -1,4 +1,4 @@
-# conn mytunnel
+  conn mytunnel
           auto=start
           authby=secret
           type=tunne;
