@@ -2,7 +2,7 @@ conn mytunnel
 
          auto=start
          authby=secret
-         type=tunne;
+         type=tunnel
          ike=3des-sha1;modp2048
          keyexchange=ike
          phase2=esp
